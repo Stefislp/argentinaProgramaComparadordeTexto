@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comparador de Texto</string>
+    <string name="input">Ingrese una palabra</string>
+    <string name="comparar">Comparar</string>
+</resources>
